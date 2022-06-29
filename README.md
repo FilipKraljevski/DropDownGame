@@ -86,3 +86,6 @@ public void Move()
 позицијата на платформата минус висината на панелот. Во спротивно гравитацијата и брзината ги задржуваат претходните вредности.
 # Screenshots
 ![ReadyDDG](https://user-images.githubusercontent.com/86956087/176487338-0d59bab8-f6c5-4dfa-9b5c-ee656037f47a.png)
+![PlayDDG](https://user-images.githubusercontent.com/86956087/176492591-5277b87f-68e1-4bee-bf78-b0114706195e.png)
+![DefeatDDG](https://user-images.githubusercontent.com/86956087/176492916-ff65bd98-ba62-41e0-917b-51da9373d4c9.png)
+![VictoryDDG](https://user-images.githubusercontent.com/86956087/176497838-13441c26-3fcf-4ba6-b704-2ca2d329900d.png)
