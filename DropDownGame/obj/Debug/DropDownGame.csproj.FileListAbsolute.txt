@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\bin\Debug\DropDownGame.exe.config
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\bin\Debug\DropDownGame.exe
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\bin\Debug\DropDownGame.pdb
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.Form1.resources
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.Properties.Resources.resources
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.exe
+C:\Users\filip\Desktop\Vizuelno programiranje\ProjectVP\DropDownGame\obj\Debug\DropDownGame.pdb
